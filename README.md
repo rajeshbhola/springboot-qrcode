@@ -9,6 +9,7 @@
 ## How to Run this project
 - First clone the repo in your folder
 - Then change the MySQL password for your local system
+- If **qrcode-db** is not present in your mysql workbench then create it or give other database names
 - Then run the command: `mvn clean install`
 - Then simply run the application
 
