@@ -6,7 +6,7 @@
 - MySQL Workbench
 - Postman
 
-## How to Run this project
+## How to Run
 - First clone the repo in your folder
 - Then change the MySQL password for your local system
 - If **qrcode-db** is not present in your mysql workbench then create it or give other database names
